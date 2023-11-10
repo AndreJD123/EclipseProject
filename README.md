@@ -6,5 +6,5 @@ machine using Eclipse IDE.
 • A deposit and withdraw system.
 • I also set up multiple secure features and added defensive
 programming techniques.
-This was for my Fall 2021 CSS 1035 Secure Software Development Class
+This was for my Fall 2021 CSS 1035 Secure Software Development Class.
 
